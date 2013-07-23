@@ -1,4 +1,5 @@
 findjob
 =======
 
-android app
+an android app for finding job.
+unfinished...
